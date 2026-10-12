@@ -77,7 +77,7 @@ effet à **compteur** (les Tactiques). Tout est expliqué dans les tutoriels et 
 
 ## Signaler un problème ou donner un avis
 
-Ouvrez une *issue* sur ce dépôt, ou contactez l'auteur : **[à compléter : lien Discord / contact]**.
+Ouvrez une *issue* sur ce dépôt, ou contactez l'auteur : **Nakata95**.
 
 ## À propos
 
